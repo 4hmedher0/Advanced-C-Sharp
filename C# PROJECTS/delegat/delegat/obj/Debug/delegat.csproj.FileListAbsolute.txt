@@ -1,0 +1,12 @@
+E:\حاسبات الترم التاني\delegat\delegat\bin\Debug\delegat.exe.config
+E:\حاسبات الترم التاني\delegat\delegat\bin\Debug\delegat.exe
+E:\حاسبات الترم التاني\delegat\delegat\bin\Debug\delegat.pdb
+E:\حاسبات الترم التاني\delegat\delegat\obj\Debug\delegat.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\delegat\delegat\obj\Debug\delegat.exe
+E:\حاسبات الترم التاني\delegat\delegat\obj\Debug\delegat.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\delegat\delegat\bin\Debug\delegat.exe.config
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\delegat\delegat\obj\Debug\delegat.exe
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\delegat\delegat\obj\Debug\delegat.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\delegat\delegat\bin\Debug\delegat.exe
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\delegat\delegat\bin\Debug\delegat.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\delegat\delegat\obj\Debug\delegat.csprojResolveAssemblyReference.cache

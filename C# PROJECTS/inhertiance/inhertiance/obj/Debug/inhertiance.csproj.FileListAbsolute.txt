@@ -1,0 +1,18 @@
+E:\حاسبات الترم التاني\inhertiance\inhertiance\bin\Debug\inhertiance.exe.config
+E:\حاسبات الترم التاني\inhertiance\inhertiance\bin\Debug\inhertiance.exe
+E:\حاسبات الترم التاني\inhertiance\inhertiance\bin\Debug\inhertiance.pdb
+E:\حاسبات الترم التاني\inhertiance\inhertiance\obj\Debug\inhertiance.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\inhertiance\inhertiance\obj\Debug\inhertiance.exe
+E:\حاسبات الترم التاني\inhertiance\inhertiance\obj\Debug\inhertiance.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\bin\Debug\inhertiance.exe.config
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\obj\Debug\inhertiance.exe
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\obj\Debug\inhertiance.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\obj\Debug\inhertiance.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\bin\Debug\inhertiance.exe
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\bin\Debug\inhertiance.pdb
+D:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\bin\Debug\inhertiance.exe.config
+D:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\obj\Debug\inhertiance.pdb
+D:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\bin\Debug\inhertiance.exe
+D:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\bin\Debug\inhertiance.pdb
+D:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\obj\Debug\inhertiance.csprojResolveAssemblyReference.cache
+D:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\inhertiance\inhertiance\obj\Debug\inhertiance.exe

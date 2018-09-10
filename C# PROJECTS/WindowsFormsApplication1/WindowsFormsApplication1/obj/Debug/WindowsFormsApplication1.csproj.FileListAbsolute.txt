@@ -1,0 +1,21 @@
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\حاسبات الترم التاني\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Form1.resx
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Form1.cs
+E:\حاسبات الترم التاني\ADVANCED C#\C# PROJECTS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Form1.Designer.cs

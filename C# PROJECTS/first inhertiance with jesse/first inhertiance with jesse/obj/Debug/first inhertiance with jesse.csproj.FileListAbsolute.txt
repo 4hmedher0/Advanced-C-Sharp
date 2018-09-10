@@ -1,0 +1,6 @@
+F:\حاسبات الترم التاني\first inhertiance with jesse\first inhertiance with jesse\bin\Debug\first inhertiance with jesse.exe.config
+F:\حاسبات الترم التاني\first inhertiance with jesse\first inhertiance with jesse\bin\Debug\first inhertiance with jesse.exe
+F:\حاسبات الترم التاني\first inhertiance with jesse\first inhertiance with jesse\bin\Debug\first inhertiance with jesse.pdb
+F:\حاسبات الترم التاني\first inhertiance with jesse\first inhertiance with jesse\obj\Debug\first inhertiance with jesse.csprojResolveAssemblyReference.cache
+F:\حاسبات الترم التاني\first inhertiance with jesse\first inhertiance with jesse\obj\Debug\first inhertiance with jesse.exe
+F:\حاسبات الترم التاني\first inhertiance with jesse\first inhertiance with jesse\obj\Debug\first inhertiance with jesse.pdb

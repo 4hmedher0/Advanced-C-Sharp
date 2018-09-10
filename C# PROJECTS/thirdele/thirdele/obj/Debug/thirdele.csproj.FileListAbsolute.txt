@@ -1,0 +1,6 @@
+E:\حاسبات الترم التاني\thirdele\thirdele\bin\Debug\thirdele.exe.config
+E:\حاسبات الترم التاني\thirdele\thirdele\bin\Debug\thirdele.exe
+E:\حاسبات الترم التاني\thirdele\thirdele\bin\Debug\thirdele.pdb
+E:\حاسبات الترم التاني\thirdele\thirdele\obj\Debug\thirdele.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\thirdele\thirdele\obj\Debug\thirdele.exe
+E:\حاسبات الترم التاني\thirdele\thirdele\obj\Debug\thirdele.pdb

@@ -1,0 +1,6 @@
+E:\حاسبات الترم التاني\im_explicit\im_explicit\bin\Debug\im_explicit.exe.config
+E:\حاسبات الترم التاني\im_explicit\im_explicit\obj\Debug\im_explicit.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\im_explicit\im_explicit\bin\Debug\im_explicit.exe
+E:\حاسبات الترم التاني\im_explicit\im_explicit\bin\Debug\im_explicit.pdb
+E:\حاسبات الترم التاني\im_explicit\im_explicit\obj\Debug\im_explicit.exe
+E:\حاسبات الترم التاني\im_explicit\im_explicit\obj\Debug\im_explicit.pdb

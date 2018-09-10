@@ -1,0 +1,6 @@
+E:\حاسبات الترم التاني\NEWDELEGATE\NEWDELEGATE\bin\Debug\NEWDELEGATE.exe.config
+E:\حاسبات الترم التاني\NEWDELEGATE\NEWDELEGATE\bin\Debug\NEWDELEGATE.exe
+E:\حاسبات الترم التاني\NEWDELEGATE\NEWDELEGATE\bin\Debug\NEWDELEGATE.pdb
+E:\حاسبات الترم التاني\NEWDELEGATE\NEWDELEGATE\obj\Debug\NEWDELEGATE.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\NEWDELEGATE\NEWDELEGATE\obj\Debug\NEWDELEGATE.exe
+E:\حاسبات الترم التاني\NEWDELEGATE\NEWDELEGATE\obj\Debug\NEWDELEGATE.pdb
