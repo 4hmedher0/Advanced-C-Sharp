@@ -1,0 +1,15 @@
+E:\حاسبات الترم التاني\jagged array\jagged array\bin\Debug\jagged array.exe.config
+E:\حاسبات الترم التاني\jagged array\jagged array\bin\Debug\jagged array.exe
+E:\حاسبات الترم التاني\jagged array\jagged array\bin\Debug\jagged array.pdb
+E:\حاسبات الترم التاني\jagged array\jagged array\obj\Debug\jagged array.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\jagged array\jagged array\obj\Debug\jagged array.exe
+E:\حاسبات الترم التاني\jagged array\jagged array\obj\Debug\jagged array.pdb
+E:\حاسبات الترم التاني\oop\C#\jagged array\jagged array\bin\Debug\jagged array.exe.config
+E:\حاسبات الترم التاني\oop\C#\jagged array\jagged array\obj\Debug\jagged array.exe
+E:\حاسبات الترم التاني\oop\C#\jagged array\jagged array\obj\Debug\jagged array.pdb
+F:\حاسبات الترم التاني\OOP\C#\jagged array\jagged array\bin\Debug\jagged array.exe.config
+F:\حاسبات الترم التاني\OOP\C#\jagged array\jagged array\obj\Debug\jagged array.pdb
+F:\حاسبات الترم التاني\OOP\C#\jagged array\jagged array\bin\Debug\jagged array.exe
+F:\حاسبات الترم التاني\OOP\C#\jagged array\jagged array\bin\Debug\jagged array.pdb
+F:\حاسبات الترم التاني\OOP\C#\jagged array\jagged array\obj\Debug\jagged array.csprojResolveAssemblyReference.cache
+F:\حاسبات الترم التاني\OOP\C#\jagged array\jagged array\obj\Debug\jagged array.exe

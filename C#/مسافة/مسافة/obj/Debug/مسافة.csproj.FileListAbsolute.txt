@@ -1,0 +1,10 @@
+C:\Users\Hero\Desktop\مسافة\مسافة\bin\Debug\مسافة.exe.config
+C:\Users\Hero\Desktop\مسافة\مسافة\bin\Debug\مسافة.exe
+C:\Users\Hero\Desktop\مسافة\مسافة\bin\Debug\مسافة.pdb
+C:\Users\Hero\Desktop\مسافة\مسافة\obj\Debug\مسافة.csprojResolveAssemblyReference.cache
+C:\Users\Hero\Desktop\مسافة\مسافة\obj\Debug\مسافة.exe
+C:\Users\Hero\Desktop\مسافة\مسافة\obj\Debug\مسافة.pdb
+E:\حاسبات الترم التاني\oop\C#\مسافة\مسافة\bin\Debug\مسافة.exe.config
+E:\حاسبات الترم التاني\oop\C#\مسافة\مسافة\obj\Debug\مسافة.exe
+E:\حاسبات الترم التاني\oop\C#\مسافة\مسافة\obj\Debug\مسافة.pdb
+E:\حاسبات الترم التاني\OOP\C#\مسافة\مسافة\obj\Debug\مسافة.csprojResolveAssemblyReference.cache

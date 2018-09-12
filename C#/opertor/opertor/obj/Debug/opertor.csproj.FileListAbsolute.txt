@@ -1,0 +1,11 @@
+E:\حاسبات الترم التاني\opertor\opertor\bin\Debug\opertor.exe.config
+E:\حاسبات الترم التاني\opertor\opertor\bin\Debug\opertor.exe
+E:\حاسبات الترم التاني\opertor\opertor\bin\Debug\opertor.pdb
+E:\حاسبات الترم التاني\opertor\opertor\obj\Debug\opertor.exe
+E:\حاسبات الترم التاني\opertor\opertor\obj\Debug\opertor.pdb
+E:\حاسبات الترم التاني\opertor\opertor\obj\Debug\opertor.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\oop\C#\opertor\opertor\bin\Debug\opertor.exe.config
+E:\حاسبات الترم التاني\oop\C#\opertor\opertor\obj\Debug\opertor.exe
+E:\حاسبات الترم التاني\oop\C#\opertor\opertor\obj\Debug\opertor.pdb
+F:\حاسبات الترم التاني\OOP\C#\opertor\opertor\bin\Debug\opertor.exe.config
+F:\حاسبات الترم التاني\OOP\C#\opertor\opertor\obj\Debug\opertor.pdb

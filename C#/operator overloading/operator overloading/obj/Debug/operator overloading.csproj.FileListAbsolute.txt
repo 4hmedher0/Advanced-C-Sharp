@@ -1,0 +1,15 @@
+C:\Users\Hero\Desktop\operator overloading\operator overloading\bin\Debug\operator overloading.exe.config
+C:\Users\Hero\Desktop\operator overloading\operator overloading\bin\Debug\operator overloading.exe
+C:\Users\Hero\Desktop\operator overloading\operator overloading\bin\Debug\operator overloading.pdb
+C:\Users\Hero\Desktop\operator overloading\operator overloading\obj\Debug\operator overloading.csprojResolveAssemblyReference.cache
+C:\Users\Hero\Desktop\operator overloading\operator overloading\obj\Debug\operator overloading.exe
+C:\Users\Hero\Desktop\operator overloading\operator overloading\obj\Debug\operator overloading.pdb
+E:\حاسبات الترم التاني\oop\C#\operator overloading\operator overloading\bin\Debug\operator overloading.exe.config
+E:\حاسبات الترم التاني\oop\C#\operator overloading\operator overloading\obj\Debug\operator overloading.exe
+E:\حاسبات الترم التاني\oop\C#\operator overloading\operator overloading\obj\Debug\operator overloading.pdb
+F:\حاسبات الترم التاني\OOP\C#\operator overloading\operator overloading\bin\Debug\operator overloading.exe.config
+F:\حاسبات الترم التاني\OOP\C#\operator overloading\operator overloading\obj\Debug\operator overloading.pdb
+F:\حاسبات الترم التاني\OOP\C#\operator overloading\operator overloading\bin\Debug\operator overloading.exe
+F:\حاسبات الترم التاني\OOP\C#\operator overloading\operator overloading\bin\Debug\operator overloading.pdb
+F:\حاسبات الترم التاني\OOP\C#\operator overloading\operator overloading\obj\Debug\operator overloading.csprojResolveAssemblyReference.cache
+F:\حاسبات الترم التاني\OOP\C#\operator overloading\operator overloading\obj\Debug\operator overloading.exe

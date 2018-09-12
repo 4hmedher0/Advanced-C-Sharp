@@ -1,0 +1,15 @@
+E:\حاسبات الترم التاني\array as class member\array as class member\bin\Debug\array as class member.exe.config
+E:\حاسبات الترم التاني\array as class member\array as class member\bin\Debug\array as class member.exe
+E:\حاسبات الترم التاني\array as class member\array as class member\bin\Debug\array as class member.pdb
+E:\حاسبات الترم التاني\array as class member\array as class member\obj\Debug\array as class member.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\array as class member\array as class member\obj\Debug\array as class member.exe
+E:\حاسبات الترم التاني\array as class member\array as class member\obj\Debug\array as class member.pdb
+E:\حاسبات الترم التاني\oop\C#\array as class member\array as class member\bin\Debug\array as class member.exe.config
+E:\حاسبات الترم التاني\oop\C#\array as class member\array as class member\obj\Debug\array as class member.exe
+E:\حاسبات الترم التاني\oop\C#\array as class member\array as class member\obj\Debug\array as class member.pdb
+F:\حاسبات الترم التاني\OOP\C#\array as class member\array as class member\bin\Debug\array as class member.exe.config
+F:\حاسبات الترم التاني\OOP\C#\array as class member\array as class member\obj\Debug\array as class member.pdb
+F:\حاسبات الترم التاني\OOP\C#\array as class member\array as class member\bin\Debug\array as class member.exe
+F:\حاسبات الترم التاني\OOP\C#\array as class member\array as class member\bin\Debug\array as class member.pdb
+F:\حاسبات الترم التاني\OOP\C#\array as class member\array as class member\obj\Debug\array as class member.csprojResolveAssemblyReference.cache
+F:\حاسبات الترم التاني\OOP\C#\array as class member\array as class member\obj\Debug\array as class member.exe

@@ -1,0 +1,8 @@
+E:\حاسبات الترم التاني\index\index\bin\Debug\index.exe.config
+E:\حاسبات الترم التاني\index\index\bin\Debug\index.exe
+E:\حاسبات الترم التاني\index\index\bin\Debug\index.pdb
+E:\حاسبات الترم التاني\index\index\obj\Debug\index.exe
+E:\حاسبات الترم التاني\index\index\obj\Debug\index.pdb
+E:\حاسبات الترم التاني\index\index\obj\Debug\index.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\OOP\C#\exception\index\bin\Debug\index.exe.config
+E:\حاسبات الترم التاني\OOP\C#\exception\index\obj\Debug\index.pdb

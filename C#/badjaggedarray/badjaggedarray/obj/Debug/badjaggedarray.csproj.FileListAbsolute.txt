@@ -1,0 +1,5 @@
+F:\حاسبات الترم التاني\badjaggedarray\badjaggedarray\bin\Debug\badjaggedarray.exe.config
+F:\حاسبات الترم التاني\badjaggedarray\badjaggedarray\bin\Debug\badjaggedarray.exe
+F:\حاسبات الترم التاني\badjaggedarray\badjaggedarray\bin\Debug\badjaggedarray.pdb
+F:\حاسبات الترم التاني\badjaggedarray\badjaggedarray\obj\Debug\badjaggedarray.exe
+F:\حاسبات الترم التاني\badjaggedarray\badjaggedarray\obj\Debug\badjaggedarray.pdb

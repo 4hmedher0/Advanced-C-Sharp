@@ -1,0 +1,6 @@
+E:\حاسبات الترم التاني\PLOYMORIHRISM\PLOYMORIHRISM\bin\Debug\PLOYMORIHRISM.exe.config
+E:\حاسبات الترم التاني\PLOYMORIHRISM\PLOYMORIHRISM\bin\Debug\PLOYMORIHRISM.exe
+E:\حاسبات الترم التاني\PLOYMORIHRISM\PLOYMORIHRISM\bin\Debug\PLOYMORIHRISM.pdb
+E:\حاسبات الترم التاني\PLOYMORIHRISM\PLOYMORIHRISM\obj\Debug\PLOYMORIHRISM.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\PLOYMORIHRISM\PLOYMORIHRISM\obj\Debug\PLOYMORIHRISM.exe
+E:\حاسبات الترم التاني\PLOYMORIHRISM\PLOYMORIHRISM\obj\Debug\PLOYMORIHRISM.pdb

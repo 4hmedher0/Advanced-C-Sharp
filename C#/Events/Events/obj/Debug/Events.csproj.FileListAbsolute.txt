@@ -1,0 +1,6 @@
+E:\حاسبات الترم التاني\Events\Events\bin\Debug\Events.exe.config
+E:\حاسبات الترم التاني\Events\Events\bin\Debug\Events.exe
+E:\حاسبات الترم التاني\Events\Events\bin\Debug\Events.pdb
+E:\حاسبات الترم التاني\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\Events\Events\obj\Debug\Events.exe
+E:\حاسبات الترم التاني\Events\Events\obj\Debug\Events.pdb

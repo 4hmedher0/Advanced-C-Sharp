@@ -1,0 +1,12 @@
+E:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\bin\Debug\virtual,abst,inteerface.exe.config
+E:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\obj\Debug\virtual,abst,inteerface.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\bin\Debug\virtual,abst,inteerface.exe
+E:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\bin\Debug\virtual,abst,inteerface.pdb
+E:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\obj\Debug\virtual,abst,inteerface.exe
+E:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\obj\Debug\virtual,abst,inteerface.pdb
+F:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\bin\Debug\virtual,abst,inteerface.exe.config
+F:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\obj\Debug\virtual,abst,inteerface.exe
+F:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\obj\Debug\virtual,abst,inteerface.pdb
+F:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\obj\Debug\virtual,abst,inteerface.csprojResolveAssemblyReference.cache
+F:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\bin\Debug\virtual,abst,inteerface.exe
+F:\حاسبات الترم التاني\virtual,abst,inteerface\virtual,abst,inteerface\bin\Debug\virtual,abst,inteerface.pdb

@@ -1,0 +1,9 @@
+E:\حاسبات الترم التاني\student op\student op\bin\Debug\student op.exe.config
+E:\حاسبات الترم التاني\student op\student op\bin\Debug\student op.exe
+E:\حاسبات الترم التاني\student op\student op\bin\Debug\student op.pdb
+E:\حاسبات الترم التاني\student op\student op\obj\Debug\student op.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\student op\student op\obj\Debug\student op.exe
+E:\حاسبات الترم التاني\student op\student op\obj\Debug\student op.pdb
+E:\حاسبات الترم التاني\oop\C#\student op\student op\bin\Debug\student op.exe.config
+E:\حاسبات الترم التاني\oop\C#\student op\student op\obj\Debug\student op.exe
+E:\حاسبات الترم التاني\oop\C#\student op\student op\obj\Debug\student op.pdb

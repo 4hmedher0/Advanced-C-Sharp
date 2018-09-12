@@ -1,0 +1,9 @@
+E:\حاسبات الترم التاني\array\array\bin\Debug\array.exe.config
+E:\حاسبات الترم التاني\array\array\bin\Debug\array.exe
+E:\حاسبات الترم التاني\array\array\bin\Debug\array.pdb
+E:\حاسبات الترم التاني\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+E:\حاسبات الترم التاني\array\array\obj\Debug\array.exe
+E:\حاسبات الترم التاني\array\array\obj\Debug\array.pdb
+E:\حاسبات الترم التاني\oop\C#\array\array\bin\Debug\array.exe.config
+E:\حاسبات الترم التاني\oop\C#\array\array\obj\Debug\array.exe
+E:\حاسبات الترم التاني\oop\C#\array\array\obj\Debug\array.pdb
